@@ -1,4 +1,4 @@
-# Hi, I'm Shyla Mallari 👋
+# Hi, I'm Shyla 👋
 
 Turning complex data into actionable insights | Up-skilling from Quality Assurance & Control to Data Science
 
